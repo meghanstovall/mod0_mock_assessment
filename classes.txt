@@ -1,0 +1,14 @@
+Class: Child
+
+Attributes:
+  (String) ethnicity = "White"
+  (integer) age = 23
+  (String) height = "6'2""
+  (integer) weight = 140
+  (boolean) has_siblings = yes
+
+Methods:
+  hadBirthday (Adds one onto their age)
+  lostFivePounds (subtracts 5 from weight)
+  gainedFivePounds (adds 5 to weight)
+  grewAnInch (adds one inch to height)
