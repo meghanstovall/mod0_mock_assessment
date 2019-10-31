@@ -3,7 +3,7 @@ Class: Child
 Attributes:
   (String) ethnicity
   (integer) age
-  (String) height
+  (integer) height_in_inches
   (integer) weight
   (boolean) has_siblings
 

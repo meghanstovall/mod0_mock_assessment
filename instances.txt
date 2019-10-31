@@ -1,0 +1,30 @@
+Object: Meghan
+
+Attributes:
+  ethnicity = "White"
+  age = 23
+  height = 74
+  weight = 145
+  has_siblings = yes
+
+Methods:
+  hadBirthday: age + 1
+  lostFivePounds: weight - 5
+  gainedFivePounds: weight + 5
+  grewAnInch: height + 1
+
+
+Object: Tye
+
+Attributes:
+  ethnicity = "White"
+  age = 26
+  height = 71
+  weight = 130
+  has_siblings = yes 
+
+Methods:
+  hadBirthday: age + 1
+  lostFivePounds: weight - 5
+  gainedFivePounds: weight + 5
+  grewAnInch: height + 1
