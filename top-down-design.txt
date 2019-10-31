@@ -1,0 +1,60 @@
+Making a sandwich
+
+1 Get the bread
+  1.1 Grab bread from top of fridge
+  1.2 Set the bread on the counter
+  1.3 Undo the twist tie
+  1.4 Untwist the bag
+  1.5 Open the bag
+  1.6 Put one hand in the bag
+  1.7 Grab two pieces of bread
+  1.8 Take hand, with bread, out of bag
+  1.9 Set bread on plate side by side
+2 Get things out of fridge
+  2.1 Go to the fridge
+  2.2 Open the fridge
+  2.3 Open the draw with meat in it
+    2.3.1 Decide between ham or turkey
+  2.4 Grab the bag of meat
+    2.4.1 Set bag of meat on counter by plate
+  2.5 Close the draw
+  2.6 Open the draw with cheese in it
+    2.6.1 Decide between provolone and cheddar
+  2.7 Grab the bag of cheese
+    2.7.1 Set the bag of cheese on counter buy plate
+  2.8 Close the draw
+  2.9 Look in door of fridge
+  2.10 Grab the mustard
+    2.10.1 Set on counter by the plate
+  2.11 Close the fridge
+3 Make the sandwich
+  3.1 Open the bag of meat
+  3.2 Grab four slices of meat out of bag using your hand
+  3.3 Strategically place meat on one slice of bread
+  3.4 Close the meat bag and place on counter
+  3.5 Open bag of cheese
+  3.6 Grab two slices of cheese using your hand
+  3.7 Strategically place slices on top of the meat on the bread
+  3.8 Close cheese bag and place on counter
+  3.9 Grab the mustard
+  3.10 open lid of mustard
+  3.11 Tilt mustard upside down
+  3.12 Squeeze some mustard on top of other slice of bread
+  3.13 Close lid to mustard
+  3.14 Set mustard bottle back on counter
+  3.15 Close sandwich
+    3.15.1 Grab slice of bread with mustard on it
+    3.15.2 Put on top of other slice with mustard facing down
+4 Put everything away
+  4.1 Grab the mustard from the counter
+  4.2 Walk to fridge
+  4.3 Open fridge
+  4.4 Put mustard in fridge door where you got it
+  4.5 Grab the bag of meat and cheese
+  4.6 Open the draw for the meat
+  4.7 Place bag of meat in draw
+  4.8 Close the draw
+  4.9 Open draw for the cheese
+  4.10 Place bag of cheese in draw
+  4.11 Close the draw
+  4.12 Close the fridge
