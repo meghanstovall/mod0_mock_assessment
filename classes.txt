@@ -1,11 +1,11 @@
 Class: Child
 
 Attributes:
-  (String) ethnicity = "White"
-  (integer) age = 23
-  (String) height = "6'2""
-  (integer) weight = 140
-  (boolean) has_siblings = yes
+  (String) ethnicity
+  (integer) age
+  (String) height
+  (integer) weight
+  (boolean) has_siblings
 
 Methods:
   hadBirthday (Adds one onto their age)
